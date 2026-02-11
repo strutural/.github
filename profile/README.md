@@ -1,21 +1,21 @@
 # 🚧 Strutural | Soluções em Segurança e Equipamentos Industriais
 
 Bem-vindo ao **repositório oficial da Strutural**! 👷‍♂️  
-Aqui você encontrará materiais, documentos, projetos e informações relevantes sobre a nossa empresa, nossa missão e os serviços que prestamos.
+Aqui você encontrará documentos, projetos e informações relevantes sobre a nossa empresa, nossa missão e os serviços que prestamos.
 
 ---
 
 ## 🌟 Quem Somos
 
-A **Strutural Comércio de Materiais de Construção LTDA** é uma empresa especializada em soluções completas para **saúde e segurança no trabalho**, com mais de **25 anos de experiência no mercado**. Atuamos com foco em equipamentos de proteção individual (EPIs), ferramentas e produtos de limpeza voltados para empresas que buscam qualidade, eficiência e segurança para suas operações. :contentReference[oaicite:0]{index=0}
+A **Strutural Comércio de Materiais de Construção LTDA** é uma empresa especializada em soluções completas para **saúde e segurança no trabalho**, com mais de **25 anos de experiência no mercado**. Atuamos com foco em equipamentos de proteção individual (EPIs), ferramentas e produtos de limpeza voltados para empresas que buscam qualidade, eficiência e segurança para suas operações. 
 
-🔹 Nossa sede está em **Manaus (AM – Brasil)** e atendemos empresas de diversos segmentos com um atendimento personalizado e eficiente. :contentReference[oaicite:1]{index=1}
+🔹 Nossa sede está em **Manaus (AM – Brasil)** e atendemos empresas de diversos segmentos com um atendimento personalizado e eficiente.
 
 ---
 
 ## 📌 Nossa Missão
 
-Nossa missão é oferecer **soluções que garantam a segurança dos colaboradores**, reduzam riscos operacionais e promovam ambientes de trabalho mais **sustentáveis, seguros e produtivos**. :contentReference[oaicite:2]{index=2}
+Nossa missão é oferecer **soluções que garantam a segurança dos colaboradores**, reduzam riscos operacionais e promovam ambientes de trabalho mais **sustentáveis, seguros e produtivos**.
 
 ---
 
@@ -33,7 +33,7 @@ Fornecemos um portfólio completo de produtos e serviços com foco em:
 - 📦 Soluções de gestão de suprimentos e estoque de segurança  
 - 🚚 Entrega rápida e atendimento personalizado  
 &nbsp;  
-Sempre com **atendimento B2B voltado para atender suas necessidades específicas** e com foco em eficácia e confiança. :contentReference[oaicite:3]{index=3}
+Sempre com **atendimento B2B voltado para atender suas necessidades específicas** e com foco em eficácia e confiança.
 
 ---
 
@@ -45,7 +45,7 @@ Sempre com **atendimento B2B voltado para atender suas necessidades específicas
 - 📊 **30% de crescimento anual** em novos negócios  
 - 🛡️ Mais de **25 anos de experiência** no mercado de segurança e proteção industrial  
 &nbsp;  
-Estes indicadores refletem a nossa dedicação contínua à qualidade e à satisfação do cliente. :contentReference[oaicite:4]{index=4}
+Estes indicadores refletem a nossa dedicação contínua à qualidade e à satisfação do cliente.
 
 ---
 
@@ -56,7 +56,7 @@ Na Strutural, acreditamos que a **segurança no trabalho é uma prioridade absol
 - Temos um estoque amplo dos principais produtos do mercado.  
 - Trabalhamos com marcas confiáveis e reconhecidas.  
 - Atendimento especializado que entende as necessidades da sua operação.  
-- Entregas rápidas para não comprometer o andamento dos seus projetos. :contentReference[oaicite:5]{index=5}
+- Entregas rápidas para não comprometer o andamento dos seus projetos.
 
 ---
 
@@ -65,11 +65,6 @@ Na Strutural, acreditamos que a **segurança no trabalho é uma prioridade absol
 📍 **Endereço:** Manaus, Amazonas – Brasil  
 ✉️ **E-mail:** vendas@strutural.net  
 📞 **Telefone:** +55 92 3615-8080  
-📌 Visite nosso site oficial: https://lp.strutural.net/ :contentReference[oaicite:6]{index=6}
+📌 Visite nosso site oficial: https://lp.strutural.net/
 
----
-
-## 📦 Estrutura dos Repositórios
-
-O GitHub da Strutural poderá conter:
 
